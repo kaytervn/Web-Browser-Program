@@ -1,10 +1,12 @@
 ﻿**TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT THÀNH PHỐ HỒ CHÍ MINH**
+
  
 **NHÓM 06:** 
 
 KIẾN ĐỨC TRỌNG: 21110332
 
 PHẠM QUỐC TRUNG: 21110335
+
 
 Đề tài: **XÂY DỰNG ỨNG DỤNG TRÌNH DUYỆT WEB**
 
@@ -188,4 +190,3 @@ Khi lựa chọn mở một folder, màn hình sẽ chiếu ra danh sách các �
 Khi thực hiện option “Unfolder”, tất cả các địa chỉ nằm trong folder đó sẽ được bung ra ngoài danh sách bookmark. 
 
 ![](/images/Aspose.Words.a2a54b18-6ff9-4dae-9df7-5c962fc3336b.037.jpeg)![](/images/Aspose.Words.a2a54b18-6ff9-4dae-9df7-5c962fc3336b.038.jpeg)
-11 
