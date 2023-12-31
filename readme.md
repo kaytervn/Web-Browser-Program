@@ -1,13 +1,3 @@
-﻿**TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT THÀNH PHỐ HỒ CHÍ MINH**
-
- 
-**NHÓM 06:** 
-
-KIẾN ĐỨC TRỌNG: 21110332
-
-PHẠM QUỐC TRUNG: 21110335
-
-
 Đề tài: **XÂY DỰNG ỨNG DỤNG TRÌNH DUYỆT WEB**
 
 Môn: **CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT**
