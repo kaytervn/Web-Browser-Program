@@ -1,6 +1,6 @@
-|Project Name| WEB BROWSER PROGRAM|
+|Project Name| Web Browser Program|
 | :---------------- | :--------|
-| **Subject**    | DATA STRUCTURES AND ALGORITHMS|
+| **Subject**    |Data Structures and Algorithms|
 | **Start Date**    | 11/2022|
 | **End Date**      |12/2022|
 | **Team Size**     |2|
